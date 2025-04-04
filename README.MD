@@ -16,13 +16,13 @@ Below is a Time Series plot of Vodafone Group, Frankfurt Returns.
 
 ## Features
 
-- 🔄 **Automated Data Ingestion** from AlphaVantage
-- 🧠 **GARCH(p, q) Modeling** using the `arch` library
-- 🧪 **Volatility Forecasting** with customizable prediction horizon
-- 📦 **Model Persistence** via `joblib`
-- 🗄️ **SQLite-backed Data Management**
-- 🌐 **FastAPI Service Layer** for remote training and prediction
-- 📈 **Interactive EDA** via Jupyter Notebook
+-  **Automated Data Ingestion** from AlphaVantage
+-  **GARCH(p, q) Modeling** using the `arch` library
+-  **Volatility Forecasting** with customizable prediction horizon
+-  **Model Persistence** via `joblib`
+-  **SQLite-backed Data Management**
+-  **FastAPI Service Layer** for remote training and prediction
+-  **Interactive EDA** via Jupyter Notebook
 
 ---
 
@@ -164,10 +164,10 @@ Open `notebook.ipynb` for EDA and offline testing.
 
 ## Future Extensions
 
-- ✅ **Model selection automation** via grid search over `(p, q)`.
-- 🔁 **Scheduled retraining** with updated data.
-- 📊 **Dashboard** for real-time forecast visualization (e.g., Streamlit).
-- 🧠 **Deep learning volatility models** as benchmarks.
+-  **Model selection automation** via grid search over `(p, q)`.
+-  **Scheduled retraining** with updated data.
+-  **Dashboard** for real-time forecast visualization (e.g., Streamlit).
+-  **Deep learning volatility models** as benchmarks.
 
 ---
 
